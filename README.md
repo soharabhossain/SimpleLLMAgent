@@ -57,5 +57,30 @@ pip install -e .
   python main.py
   ```
 
+---
+
+## 📄 License
+
+This project is open-sourced under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Acknowledgements
+
+- Inspired by modular agentic architectures (e.g., CrewAI)
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repo and create a pull request, or open an issue to discuss what you’d like to change.
+
+---
+
+## 📬 Contact
+
+For questions or suggestions, reach out to me at [soharab.hossain@gmail.com] or connect via [LinkedIn](https://www.linkedin.com/in/soharab).
+
+
 
    
