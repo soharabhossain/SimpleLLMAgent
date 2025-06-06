@@ -33,8 +33,8 @@ simplellmagent/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/soharabhossain/simplellmagent.git
-cd simplellmagent
+git clone https://github.com/soharabhossain/SimpleLLMAgent.git
+cd SimpleLLMAgent
 ```
 ### 2. Create and Activate a Virtual Environment
 ```bash
